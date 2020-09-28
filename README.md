@@ -1,6 +1,6 @@
 ## Welcome to Piggy Game
 
-Piggy Game is the game and finance base on [Newton](https://www.newtonproject.org)
+Piggy Game is the a game base on [Newton](https://www.newtonproject.org)
 
 ### Token Info
 
