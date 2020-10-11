@@ -19,6 +19,9 @@ Piggy Game is the a game base on [Newton](https://www.newtonproject.org), the to
 ### **Community**
 
 * Discord: [https://discord.gg/BQS2NsM](https://discord.gg/BQS2NsM)
+* Twitter: [https://twitter.com/PiggyGameFi](https://twitter.com/PiggyGameFi)
+* Github: [https://github.com/piggygame](https://github.com/piggygame)
+* Medium: [https://medium.com/@PiggyGame](https://medium.com/@PiggyGame)
 
 ### Support or Contact
 
