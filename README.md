@@ -18,7 +18,7 @@ Piggy Game is the a game base on [Newton](https://www.newtonproject.org), the to
 
 ### Exchange
 
-* NewSwap.org:   [XPG/NEW](https://app.newswap.org#/swap?outputCurrency=0xc2c0c88ed55bd0a2fb041ddb6f2d796f18550676)
+* NewSwap:   [XPG/NEW](https://app.newswap.org#/swap?outputCurrency=0xc2c0c88ed55bd0a2fb041ddb6f2d796f18550676)
 
 ### **Community**
 
