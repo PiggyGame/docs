@@ -24,7 +24,7 @@ Piggy Game is the a game base on [Newton](https://www.newtonproject.org), the to
 
 ### FAQ
 
-1. What does the “X” mean in the XMR ticker symbol?
+1. What does the “X” mean in the XPG ticker symbol?
 
 The X is the result of an [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217#X_currencies) standard common for commodities and currencies that are not specific to a certain country. 
 
@@ -32,6 +32,7 @@ The X is the result of an [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217#X_cu
 * Bitcoin commonly uses XBT instead of BTC for the same reason
 * Ripple uses XRP and Stellar uses XLM
 * Monero uses XMR
+* Pig uses XPG
 
 ### **Community**
 
